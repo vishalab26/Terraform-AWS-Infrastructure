@@ -10,6 +10,8 @@ It creates a secure, scalable environment with networking, compute, storage, and
 - AWS credentials configured (aws configure)
 
 ### Folder Structure
+<img width="622" height="274" alt="image" src="https://github.com/user-attachments/assets/f7adf83d-a204-44af-8706-ca78f3b06426" />
+
 
 ### Infrastructure Components
 - **VPC** - custom VPC with CIDR 10.0.0.0/16
@@ -65,6 +67,8 @@ It creates a secure, scalable environment with networking, compute, storage, and
 
 ### Outputs
 After running terraform apply, Terraform prints the following:
+<img width="1200" height="161" alt="image" src="https://github.com/user-attachments/assets/bd398041-920a-4e7c-87d2-69a522bd1f34" />
+
 
 ### References
 The following official Terraform and AWS documentation resources were referred to while building this infrastructure:
